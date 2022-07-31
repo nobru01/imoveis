@@ -11,11 +11,11 @@ custo_registro,2000
 
 condominio,704
 iptu_aa,1530
-luz,120
+luz,80
 
 obra,95000
 prazo_obra,4
 
 valor_venda,909000
-prazo_venda_pos_obra,2
-comissao,0.025  
+prazo_venda_pos_obra,4
+comissao,0.03  
