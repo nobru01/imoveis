@@ -1,6 +1,7 @@
-valor_imovel,720000
+valor_imovel,670000
+area,66
 
-entrada_pp,0.2
+entrada_pp,0.5
 n_parcelas,420
 juros_nominal,0.0799
 custo_avaliacao,4000
@@ -9,13 +10,13 @@ encargos_finaciamento,130
 custo_escritura,3000
 custo_registro,2000
 
-condominio,704
-iptu_aa,1530
+condominio,500
+iptu_aa,1700
 luz,80
 
-obra,95000
-prazo_obra,4
+obra,45000
+prazo_obra,3
 
-valor_venda,909000
-prazo_venda_pos_obra,4
-comissao,0.03  
+valor_venda,800000
+prazo_venda_pos_obra,3
+comissao,0.02  
