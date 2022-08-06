@@ -1,22 +1,26 @@
-valor_imovel,670000
-area,66
+valor_imovel,640000
+area,64
 
-entrada_pp,0.5
+financiamento_0_ou_1,0
+
+entrada_por_valor,
+entrada_pp,0.2
 n_parcelas,420
 juros_nominal,0.0799
-custo_avaliacao,4000
-encargos_finaciamento,130
+tr,0.02
+custo_avaliacao,1500
+encargos_finaciamento,150
 
 custo_escritura,3000
 custo_registro,2000
 
-condominio,500
+condominio,550
 iptu_aa,1700
 luz,80
 
-obra,45000
+obra,50000
 prazo_obra,3
 
 valor_venda,800000
 prazo_venda_pos_obra,3
-comissao,0.02  
+comissao,0.03
