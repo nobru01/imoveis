@@ -1,15 +1,16 @@
-valor_imovel,630000
+valor_imovel,625000
 area,64
 
+itbi_parcelado_0_ou_1,1
 financiamento_0_ou_1,0
 
 entrada_por_valor,550000
 entrada_pp,
-n_parcelas,420
-juros_nominal,0.0859
-tr,0.02
-custo_avaliacao,1500
-encargos_finaciamento,150
+n_parcelas,10
+juros_nominal,0.0
+tr,0
+custo_avaliacao,0
+encargos_finaciamento,0
 
 custo_escritura,2100
 custo_registro,1600
@@ -18,9 +19,9 @@ condominio,550
 iptu_aa,1700
 luz,80
 
-obra,50000
+obra,15000
 prazo_obra,4
 
-valor_venda,800000
+valor_venda,750000
 prazo_venda_pos_obra,6
-comissao,0.02
+comissao,0.015
