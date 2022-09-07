@@ -1,10 +1,10 @@
-valor_imovel,705000
+valor_imovel,710000
 area,69.5
 
 itbi_parcelado_0_ou_1,1
 financiamento_0_ou_1,1
 
-entrada_por_valor,144000
+entrada_por_valor,150000
 entrada_pp,
 n_parcelas,420
 juros_nominal,0.0829
@@ -12,16 +12,16 @@ tr,0.02
 custo_avaliacao,1200
 encargos_finaciamento,130
 
-custo_escritura,2100
-custo_registro,1600
+custo_escritura,1800
+custo_registro,1000
 
 condominio,704
 iptu_aa,1700
 luz,40
 
-obra,80000
-prazo_obra,6
+obra,50000
+prazo_obra,4
 
-valor_venda,900000
-prazo_venda_pos_obra,3
+valor_venda,860000
+prazo_venda_pos_obra,4
 comissao,0.015
