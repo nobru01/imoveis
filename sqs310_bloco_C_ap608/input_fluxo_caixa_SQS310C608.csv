@@ -2,7 +2,7 @@ valor_imovel,790000
 area,74
 
 itbi_parcelado_0_ou_1,1
-financiamento_0_ou_1,1
+financiamento_0_ou_1,0
 
 entrada_por_valor,150000
 entrada_pp,
@@ -15,7 +15,7 @@ encargos_finaciamento,130
 custo_escritura,2400
 custo_registro,1200
 
-receita_aluguel_0_ou_1,1
+receita_aluguel_0_ou_1,0
 
 condominio,700
 iptu_aa,1700
