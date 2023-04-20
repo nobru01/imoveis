@@ -9,13 +9,13 @@ pd.options.display.float_format = '{:,.2f}'.format
 def impota_dados(path):
     ''' Essa função impora dos dados dfo csv.
     Args.:
-        path => ex.: './sqs310_bloco_C_ap608/input_fluxo_caixa_SQS310C608.csv'
+        path => ex.: './sqs310_bloco_C_ap_207/input_fluxo_caixa_SQS310C207.csv'
     '''    
     df_input=pd.read_csv(path,header=None,index_col=0)
     df_input=df_input.rename(columns={1:'valor_variavel'})
     return df_input
 
-df_input=impota_dados('./sqs310_bloco_C_ap608/input_fluxo_caixa_SQS310C608.csv')
+df_input=impota_dados('./sqs310_bloco_C_ap_207/input_fluxo_caixa_SQS310C207.csv')
 
 valor_imovel=df_input.loc['valor_imovel','valor_variavel']
 entrada_pp=df_input.loc['entrada_pp','valor_variavel']

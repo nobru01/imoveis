@@ -1,8 +1,8 @@
-valor_imovel,725000
+valor_imovel,715000
 area,74
 
 itbi_parcelado_0_ou_1,1
-financiamento_0_ou_1,1
+financiamento_0_ou_1,0
 
 entrada_por_valor,150000
 entrada_pp,
@@ -12,23 +12,23 @@ tr,0.02
 custo_avaliacao,1500
 encargos_finaciamento,130
 
-custo_escritura,1400
-custo_registro,700
+custo_escritura,2400
+custo_registro,1200
 
-receita_aluguel_0_ou_1,1
+receita_aluguel_0_ou_1,0
 
-condominio,700
-iptu_aa,1700
-luz,40
+condominio,0
+iptu_aa,00
+luz,0
 
-aluguel_recebido,3150
+aluguel_recebido,2800
 
 
 obra,15000
 prazo_obra,1
 
 valor_venda,750000
-prazo_venda_pos_obra,22
-comissao,0.015
+prazo_venda_pos_obra,6
+comissao,0.02
 
-atualizacao_valor_imovel,0.04
+atualizacao_valor_imovel,0.06
