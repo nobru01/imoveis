@@ -1,13 +1,13 @@
-valor_imovel,2200000
+valor_imovel,1950000
 area,450
 
 itbi_parcelado_0_ou_1,1
 financiamento_0_ou_1,1
 
-entrada_por_valor,1000000
-entrada_pp,
+entrada_por_valor,
+entrada_pp,1
 n_parcelas,420
-juros_nominal,0.0972
+juros_nominal,0.0971
 tr,0.02
 custo_avaliacao,3000
 encargos_finaciamento,300
@@ -25,7 +25,7 @@ aluguel_recebido,12000
 
 
 obra,600000
-prazo_obra,24
+prazo_obra,36
 
 valor_venda,3500000
 prazo_venda_pos_obra,12

@@ -224,25 +224,35 @@ print(df)
 df_juros_real=pd.read_csv(r'../BcB_Forcast/output/num_indice_selic_ipca_diferenca.csv', index_col=0)
 df_juros_real
 
-# %%
+
 def busca_num_indice_selic(data):
     #converte data em string
     data=datetime.strftime(data,'%Y-%m-%d')    
     return df_juros_real.loc[data,'num_indice_selic']
-df['num_selic']=df.apply(lambda x: busca_num_indice_selic(x.data),axis=1)
 
 def corrige_selic(total,num_selic):
     # Número índice de referência (data da venda)
     num_indice_ref=df.loc[df.index[-1],'num_selic']
     total=total*num_indice_ref/num_selic
     return total
-df['total_selic']=df.apply(lambda x: corrige_selic(x.total,x.num_selic),axis=1)
 
-df
+# Tenta calcular considerendo projeções da SELIC
+## Para prazos longos não vai funcionar, pq não terá projeção da SELIC
+try:
+        
+    df['num_selic']=df.apply(lambda x: busca_num_indice_selic(x.data),axis=1)
+    df['total_selic']=df.apply(lambda x: corrige_selic(x.total,x.num_selic),axis=1)
+    # Indicação para calcular SELIC = 1 ou não =0
+    flag_selic=1
+except:
+    print('Erro no cálculo utilizando as projeções da SELIC.')
+    # Indicação para calcular SELIC = 1 ou não =0
+    flag_selic=0
+
 
 # %%
 # calculo da IRR
-def cal_irr(x):
+def cal_irr(x,flag_selic):
     
     dates=list(x['data'])
     amounts=list(x['total'])
@@ -252,17 +262,19 @@ def cal_irr(x):
     print('TII a.m.(%): ',t_am*100)
     print('Lucro: ',-x['total'].sum())
 
-    amounts_selic=list(x['total_selic'])
-    t_aa=xirr(dates, amounts_selic)
-    t_am=(1+t_aa)**(1/12)-1
-    print('TII a.a. acima da selic (%): ',t_aa*100)
-    print('TII a.m. acima da selic (%): ',t_am*100)
-    print('Lucro: ',-x['total_selic'].sum())
+    if flag_selic==1:
+            
+        amounts_selic=list(x['total_selic'])
+        t_aa=xirr(dates, amounts_selic)
+        t_am=(1+t_aa)**(1/12)-1
+        print('TII a.a. acima da selic (%): ',t_aa*100)
+        print('TII a.m. acima da selic (%): ',t_am*100)
+        print('Lucro: ',-x['total_selic'].sum())
     
     # return (t_aa*100,t_am*100,-x['total'].sum())
 
 # %%
-cal_irr(df)
+cal_irr(df,flag_selic)
 
 # %%
 valor_m2_aquisicao=valor_imovel/area
