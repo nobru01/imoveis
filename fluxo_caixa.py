@@ -15,7 +15,7 @@ def impota_dados(path):
     df_input=df_input.rename(columns={1:'valor_variavel'})
     return df_input
 
-df_input=impota_dados('./ql26_cj2/input_fluxo_caixa_ql26_cj2.csv')
+df_input=impota_dados('./sqs311_bloco_d_ap306/sqs311_bloco_d_ap306.csv')
 
 valor_imovel=df_input.loc['valor_imovel','valor_variavel']
 entrada_pp=df_input.loc['entrada_pp','valor_variavel']
