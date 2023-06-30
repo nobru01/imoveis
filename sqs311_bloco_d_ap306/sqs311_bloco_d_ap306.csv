@@ -1,4 +1,4 @@
-valor_imovel,980000
+valor_imovel,1000000
 area,105
 
 itbi_parcelado_0_ou_1,1
@@ -10,7 +10,7 @@ n_parcelas,420
 juros_nominal,0.0971
 tr,0.02
 custo_avaliacao,3000
-encargos_finaciamento,300
+encargos_finaciamento,700
 
 custo_escritura,3000
 custo_registro,1500
@@ -21,7 +21,7 @@ condominio,350
 iptu_aa,000
 luz,00
 
-aluguel_recebido,4000
+aluguel_recebido,4200
 
 
 obra,120000
