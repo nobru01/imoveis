@@ -1,30 +1,30 @@
-valor_imovel,1000000
+valor_imovel,1050000
 area,105
 
 itbi_parcelado_0_ou_1,1
 financiamento_0_ou_1,1
 
 entrada_por_valor,
-entrada_pp,1
+entrada_pp,0.2
 n_parcelas,420
 juros_nominal,0.0971
 tr,0.02
 custo_avaliacao,3000
-encargos_finaciamento,700
+encargos_finaciamento,950
 
 custo_escritura,3000
 custo_registro,1500
 
 receita_aluguel_0_ou_1,1
 
-condominio,350
+condominio,1150
 iptu_aa,000
 luz,00
 
 aluguel_recebido,4200
 
 
-obra,120000
+obra,80000
 prazo_obra,24
 
 valor_venda,1250000
