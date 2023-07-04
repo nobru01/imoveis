@@ -121,6 +121,22 @@ else:
 # %% [markdown]
 # # Custos fixos
 
+# Taxa extra: de responsabilidade sempre do proprietário
+taxa_extra=df_input.loc['taxa_extra','valor_variavel']
+prazo_taxa_extra=df_input.loc['prazo_taxa_extra','valor_variavel']
+
+if taxa_extra>0 and prazo_taxa_extra>0:
+    for i in range(0,len(df)):
+        if i < prazo_taxa_extra:
+            df.loc[i,'taxa extra']=taxa_extra
+        else:
+            df.loc[i,'taxa extra']=0
+
+# DESCOMENTAR: Se quiser que a coluna de taxa extra apareça sempre, mesmo que zerada.
+# else:
+#     df.loc[:,'taxa extra']=0
+
+
 
 if receita_aluguel_0_ou_1==0:
     
