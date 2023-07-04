@@ -1,4 +1,4 @@
-# %%
+
 import pandas as pd
 from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
@@ -95,7 +95,8 @@ else:
 total_custos_iniciais=valor_entrada+custo_escritura+custo_registro+custo_avaliacao
 
 # %%
-for i in range(0,max(24,n_parcelas+1)):             # Se não for financiado seta o df para 24 linhas inicialmente
+# Se não for financiado seta o df para 420 linhas inicialmente
+for i in range(0,max(420,n_parcelas+1)):             
     if i==0:
         df.loc[i,'saldo_devedor']=valor_finaciado-i*amortizacao
         df.loc[i,'parcela']=0
@@ -115,7 +116,7 @@ if itbi_parcelado_0_ou_1==1:
 else:
     df.loc[0,'itbi']=custo_itbi
     for i in range(1,len(df)):
-        df.loc[0,'itbi']=0
+        df.loc[i,'itbi']=0
 
 # %% [markdown]
 # # Custos fixos
