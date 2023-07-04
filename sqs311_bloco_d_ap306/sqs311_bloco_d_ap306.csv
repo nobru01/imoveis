@@ -4,10 +4,10 @@ area,105
 itbi_parcelado_0_ou_1,0
 financiamento_0_ou_1,1
 
-entrada_por_valor,
-entrada_pp,0.2
+entrada_por_valor,230000
+entrada_pp,
 n_parcelas,420
-juros_nominal,0.0971
+juros_nominal,0.093
 tr,0.02
 custo_avaliacao,3000
 encargos_finaciamento,200
