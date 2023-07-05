@@ -46,23 +46,43 @@ custo_registro=df_input.loc['custo_registro','valor_variavel']
 # %% [markdown]
 # # Cálculo financiamento
 
-# %%
-# Cálculo do juros em função do mês
-def parcela(n):
-    saldo_devedor=valor_finaciado-(n-1)*amortizacao
-    juros=saldo_devedor*juros_nominal/12
-    return amortizacao+juros+encargos_finaciamento
 
+def saldo_devedor_atualizado(n):
+    if n==0:
+        return valor_finaciado
+    else:
+        #### Atualização monetária do saldo devedor
+
+
+
+        saldo=valor_finaciado-df.loc[:n,'amortizacao'].sum()
+        
+
+
+    return saldo
+
+
+
+# Cálculo do amortizacao em função do mês
+def amortizacao_atualizada(n):
+    if n==0:
+        return 0
+    else:
+        amortizacao=(((1+juros_tr)**(1/12))**n)*amortizacao_inicial
+    return amortizacao
 
 # %%
 if financiamento_0_ou_1==1:
     n_parcelas=int(df_input.loc['n_parcelas','valor_variavel'])                         # 35 anos
-    df=pd.DataFrame(columns=['parcela','saldo_devedor'],index=range(0,n_parcelas))
+    df=pd.DataFrame(columns=['amortizacao','juros','encargos_finaciamento','saldo_devedor'],index=range(0,n_parcelas))
     juros_nominal=df_input.loc['juros_nominal','valor_variavel']                        # a.a    
     juros_tr=df_input.loc['tr','valor_variavel']                        # a.a
-    juros_nominal=juros_nominal+juros_tr
+    # juros_nominal=juros_nominal+juros_tr
     custo_avaliacao=df_input.loc['custo_avaliacao','valor_variavel']
-    juros_efetivo=((1+juros_nominal/12)**(12)-1)            # Efeito anual dos juros sobre juros mensais.  
+    # Efeito anual dos juros sobre juros mensais.
+    ## Não é aplicado em cálculos diretos. É só para vizualização do juros sobre juros
+    juros_efetivo=((1+juros_nominal/12)**(12)-1)              
+    print(f'Juros efetivo: {juros_efetivo*100}')
 
     # he usual way to test for a NaN is to see if it's equal to itself:
     if entrada_por_valor!=entrada_por_valor:
@@ -76,11 +96,12 @@ if financiamento_0_ou_1==1:
     
     valor_finaciado=valor_imovel-valor_entrada
     encargos_finaciamento=df_input.loc['encargos_finaciamento','valor_variavel']
-    amortizacao=valor_finaciado/n_parcelas
+    amortizacao_inicial=valor_finaciado/n_parcelas
+    print(amortizacao_inicial)
     saldo_devedor=valor_finaciado
 
 else:
-    amortizacao=0
+    amortizacao_inicial=0
     saldo_devedor=0
     n_parcelas=0   
     juros_nominal=0
@@ -98,12 +119,16 @@ total_custos_iniciais=valor_entrada+custo_escritura+custo_registro+custo_avaliac
 # Se não for financiado seta o df para 420 linhas inicialmente
 for i in range(0,max(420,n_parcelas+1)):             
     if i==0:
-        df.loc[i,'saldo_devedor']=valor_finaciado-i*amortizacao
-        df.loc[i,'parcela']=0
+        df.loc[i,'juros']=0
+        df.loc[i,'amortizacao']=0    
+        df.loc[i,'encargos_finaciamento']=0
+        df.loc[i,'saldo_devedor']=valor_finaciado-i*df.loc[i,'amortizacao']
     else:
 
-        df.loc[i,'saldo_devedor']=valor_finaciado-i*amortizacao
-        df.loc[i,'parcela']=parcela(i)
+        df.loc[i,'amortizacao']=amortizacao_atualizada(i)    
+        df.loc[i,'saldo_devedor']=saldo_devedor_atualizado(i)
+        df.loc[i,'juros']=df.loc[i,'saldo_devedor']*juros_nominal/12
+        df.loc[i,'encargos_finaciamento']=encargos_finaciamento
 
 # %%
 # ITBI
@@ -213,7 +238,10 @@ for i in range(0,len(df)):
         
         # Quitação do saldo devedor e retirada dos custos fixos e parcelas
         df.loc[i,'saldo_devedor']=0 
-        df.loc[i,'parcela']=0    
+        df.loc[i,'juros']=0
+        df.loc[i,'amortizacao']=0    
+        df.loc[i,'encargos_finaciamento']=0    
+
         df.loc[i,'custos_fixos']=0    
 
     elif i==prazo_venda:                                            

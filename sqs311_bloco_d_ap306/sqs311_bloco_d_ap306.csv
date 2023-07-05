@@ -10,14 +10,14 @@ n_parcelas,420
 juros_nominal,0.093
 tr,0.02
 custo_avaliacao,3000
-encargos_finaciamento,200
+encargos_finaciamento,158
 
 custo_escritura,3000
 custo_registro,1500
 
 receita_aluguel_0_ou_1,1
 
-condominio,1150
+condominio,940
 taxa_extra,654
 prazo_taxa_extra,60
 iptu_aa,000
