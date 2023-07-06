@@ -111,7 +111,8 @@ else:
     n_parcelas=0   
     juros_nominal=0
     custo_avaliacao=0
-    juros_efetivo=0  
+    juros_efetivo=0
+    juros_tr=0  
     valor_finaciado=0
     encargos_finaciamento=0
     valor_entrada=valor_imovel
