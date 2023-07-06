@@ -8,9 +8,9 @@ entrada_por_valor,230000
 entrada_pp,
 n_parcelas,420
 juros_nominal,0.093
-tr,0.02
+tr,0.021
 custo_avaliacao,3000
-encargos_finaciamento,200
+encargos_finaciamento,158
 
 custo_escritura,3000
 custo_registro,1500
