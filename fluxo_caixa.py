@@ -63,8 +63,13 @@ def saldo_devedor_atualizado(n):
 
 
 
-# Cálculo do amortizacao em função do mês
+
 def amortizacao_atualizada(n):
+    '''
+    Cálculo da amortizacao corrigida pelo índice de atualização em função do mês.
+    Args: n -> índice da linha na tabela
+    Índice de atualização: tr
+    '''
     if n==0:
         return 0
     else:
@@ -125,9 +130,18 @@ for i in range(0,max(420,n_parcelas+1)):
         df.loc[i,'saldo_devedor']=valor_finaciado-i*df.loc[i,'amortizacao']
     else:
 
+        # Atualização do saldo devedor com a tr (ainda sem escrever no dataframe)
+        saldo_devedor=saldo_devedor*(1+juros_tr)**(1/12)
+
+        # Juros pelo BRB é calculado sobre o saldo devedor no momento do pagamento do juros e não no mês antes
+        df.loc[i,'juros']=saldo_devedor*juros_nominal/12
+
         df.loc[i,'amortizacao']=amortizacao_atualizada(i)    
-        df.loc[i,'saldo_devedor']=saldo_devedor_atualizado(i)
-        df.loc[i,'juros']=df.loc[i,'saldo_devedor']*juros_nominal/12
+
+        # Abatimento com amortização do saldo devedor
+        saldo_devedor=saldo_devedor-df.loc[i,'amortizacao']
+        df.loc[i,'saldo_devedor']=saldo_devedor
+
         df.loc[i,'encargos_finaciamento']=encargos_finaciamento
 
 # %%
