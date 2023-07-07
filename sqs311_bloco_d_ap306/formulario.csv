@@ -27,10 +27,10 @@ aluguel_recebido,4200
 
 
 obra,80000
-prazo_obra,24
+prazo_obra,12
 
-valor_venda,1240000
-prazo_venda_pos_obra,6
+valor_venda,1200000
+prazo_venda_pos_obra,8
 comissao,0.015
 
 atualizacao_valor_imovel,0.06
