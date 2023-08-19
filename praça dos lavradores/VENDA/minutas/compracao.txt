@@ -4,8 +4,9 @@ CONTRATO DE VENDA E COMPRA DE IMÓVEL, MÚTUO E ALIENAÇÃO FIDUCIÁRIA EM GARAN
 Por este Instrumento Particular, com caráter de escritura pública, na forma do § 5º do art. 61 da Lei 4.380/1964, as partes adiante qualificadas contratam a presente operação de venda e compra de imóvel residencial, mútuo com obrigações e alienação fiduciária em garantia no SFH, nas condições:
 
 A - QUALIFICAÇÃO DAS PARTES
-A1 - VENDEDOR(ES): BRUNO FERREIRA DO NASCIMENTO, nacionalidade brasileira, nascido(a) em 24/11/1984, advogado, filho de: SOLANGE FERREIRA DO NASCIMENTO e JORGE LUIS ALVES DO NASCIMENTO, e-mail: BRUNOFERREIRA01@GMAIL.COM, portador(a) de CNH nº 02731262190, expedida por Órgão de Trânsito/MS  em 01/04/2016 e do CPF 106.484.037-00,  solteiro(a), residente e domiciliado(a) em R Bentevi, 176, Bl03 Ap402, Sao Francisco em Campo Grande/MS.
-A2 - COMPRADOR(ES) E DEVEDOR(ES) FIDUCIANTE(S), doravante denominado(s) DEVEDOR(ES): ANTONIO ROBERTO COELHO RIOS, nacionalidade brasileira, nascido(a) em 13/08/1964, enfermeiro e nutricionista, filho de: JACY COELHO CAITITE RIOS e ANTONIO PEREIRA RIOS, e-mail: ANTONIORRIOS@YAHOO.COM.BR, portador(a) de Carteira de Identidade nº 3419505, expedida por Outro Tipo de Órgão Emissor/BA  em 28/04/1983 e do CPF 418.576.155-49,  casado(a) no regime de separação total de bens, anterior à vigência da Lei 6.515/77, e seu cônjuge  PAULA MORAIS SILVA, nacionalidade brasileira, nascido(a) em 26/09/1986, enfermeiro e nutricionista, filho de: MARIA JOSE MORAIS SILVA e PAULO CEZAR DO COUTO SILVA, e-mail: PAULINHA_19A@YAHOO.COM.BR, portador(a) de Carteira Funcional nº 000525784, expedida por Conselho Regional de Enfermagem/RJ  em 28/02/2019 e do CPF 111.897.087-01, residentes e domiciliados em R Olimpio De Carvalho, 76, Casa 02, Amendoeira em Sao Goncalo/RJ.
+A1 - VENDEDOR(ES): BRUNO FERREIRA DO NASCIMENTO, nacionalidade brasileira, nascido(a) em 24/11/1984, servidor público federal, filho de: SOLANGE FERREIRA DO NASCIMENTO e JORGE LUIS ALVES DO NASCIMENTO, e-mail: BRUNOFERREIRA01@GMAIL.COM, portador(a) da carteira de identidade nº 113296925, expedida pelo DETRAN/RJ em 09/10/2013 e do CPF 106.484.037-00,  solteiro(a), declara não conviver em união estável, residente e domiciliado(a) em SQS, O QD 312, BL. H AP 608, Asa Sul em Distrito Federal/DF.
+A2 - COMPRADOR(ES) E DEVEDOR(ES) FIDUCIANTE(S), doravante denominado(s) DEVEDOR(ES): ANT
+ONIO ROBERTO COELHO RIOS, nacionalidade brasileira, nascido(a) em 13/08/1964, enfermeiro, filho de: JACY COELHO CAITITE RIOS e ANTONIO PEREIRA RIOS, e-mail: ANTONIORRIOS@YAHOO.COM.BR, portador(a) da CNH nº 04013669807, expedida pelo DETRAN/RJ em 25/11/2021 e do CPF 418.576.155-49,  casado(a) no regime de separação Legal de bens, na à vigência da Lei 6.515/77, e seu cônjuge PAULA MORAIS SILVA, nacionalidade brasileira, nascido(a) em 26/09/1986, enfermeira, filha de: MARIA JOSE MORAIS SILVA e PAULO CEZAR DO COUTO SILVA, e-mail: PAULINHA_19A@YAHOO.COM.BR, portador(a) de Carteira Funcional nº 000525784, expedida pelo COREN/RJ  em 28/02/2019 e do CPF 111.897.087-01, residentes e domiciliados em R Olimpio De Carvalho, 76, Casa 02, Amendoeira em Sao Goncalo/RJ.
 A3 - CREDORA FIDUCIÁRIA: CAIXA ECONÔMICA FEDERAL, instituição financeira constituída sob a forma de empresa pública, pessoa jurídica de direito privado, criada pelo Decreto-Lei 759/1969, regendo-se pelo Estatuto vigente na data da presente contratação, com sede em Brasília - DF, no Setor Bancário Sul, Quadra 4, Lotes 3/4, inscrita no CNPJ 00.360.305/0001-04, neste ato representada por HENRY OLIVEIRA DO AMOR DIVINO, brasileiro, bancário, casado, nascido em 27/08/1975 filho de Jose Santana Melo do Amor Divino e Luzia Oliveira do Amor Divino, portador do documento de identidade nº 144454688, expedido pela DETRAN/RJ em 02/12/2021, inscrito no CPF/MF sob o nº 023.736.837-41,  endereço eletrônico: henry.divino@caixa.gov.br, residente à Rua Silva Rabelo 91 bl 2 ap 1508 - meier, rio de janeiro/RJ, conforme procuração lavrada às folhas 017 do livro 3557-P, em 05/04/2023, no 2º tabelião de notas e protesto de Brasília/DF, substabelecimento lavrado às folha 033, do livro 3562-P, em 02/05/2023 no 2º tabelião de notas e protesto de Brasília/DF, substabelecimento lavrado às folhas 103/104 do livro 4758 ato nº 50 em 05/05/2023 no 15º Oficio de Notas do Rio de Janeiro e substabelecimento lavrado às folhas 195/196 do livro 4758 ato nº 98 em 19/05/2023 no 15º Oficio de Notas do Rio de Janeiro, doravante denominada CAIXA.
 Agência responsável pelo contrato: 3146 NORTE SHOPPING, RJ                 
 QUADRO RESUMO
@@ -19,10 +20,8 @@ SFH
 B4 - Valor de Venda e Compra e Composição dos Recursos: 
 O valor destinado ao pagamento da venda e compra do imóvel objeto deste contrato é de R$ 230.000,00 (duzentos e trinta mil reais), composto pela integralização dos valores abaixo:
 Financiamento CAIXA	R$ 170.000,00
-Recursos próprios	R$ 60.000,00
+Recursos próprios (Em dinheiro)	R$ 60.000,00
  	
-
-
 B5 - Valor de Financiamento para Despesas Acessórias (Custas Cartorárias: Registro e ITBI) e Comissão do leiloeiro, se houver:
 Não se aplica	B6 - Valor Total da Dívida (Financiamento):
 R$ 170.000,00
@@ -53,7 +52,7 @@ Débito em Conta Corrente
  ANTONIO ROBERTO COELHO RIOS 	    8.750,12 	              61,80 
 
 D - DESCRIÇÃO DO IMÓVEL OBJETO DESTE CONTRATO
-PRAÇA DOS LAVRADORES Nº 180 - APTO 301 E SUA CORREPONDENTE FRAÇÃO IDEAL DE 1/16 DO RESPECTIVO TERRENO  COM DIREITO A UMA VAGA DE GARAGEM COBERTA, QUE POSSUI SUAS CARACTERÍSTICAS, METRAGENS E CONFRONTAÇÕES CONSTANTES NA MATRÍCULA Nº 220977 DO 8º REGISTRO DE IMÓVEIS DO RIO DE JANEIRO-RJ. O IMÓVEL FOI HAVIDO NOS TERMOS DA ESCRITURA DE 24/08/2016, LAVRADA EM NOTAS DO 1º OFÍCIO DESTA CIDADE(Lº 5733, FLS. 099/102) PRENOTADA SOB Nº 811032 EM 25/06/2019, ACOMPANHA DAS ESCRITURAS DECLARATÓRIAS DE 15/01/2018 E RERRATIFICAÇÃO DE ADITAMENTO DE 22/02/2018(Lº 5801, FLS. 092, E 113/114) E DA DECLARATÓRIA DE 29/10/2018(Lº 5825, FLS. 162) TODAS LAVRADAS E NOTAS 1º OFÍCIO DESTA CIDADE, CONFORME CONSTA NO R-11 DA REFERIDA MATRÍCULA. INSCRIÇÃO MUNICIPAL Nº 30096747 , CL.  51060.
+PRAÇA DOS LAVRADORES Nº 180 - APTO 301 E SUA CORREPONDENTE FRAÇÃO IDEAL DE 1/16 DO RESPECTIVO TERRENO, ANTES DESIGNADO POR LOTE 1 DO PA Nº 31120, COM DIREITO A UMA VAGA DE GARAGEM COBERTA. QUE POSSUI SUAS CARACTERÍSTICAS, METRAGENS E CONFRONTAÇÕES CONSTANTES NA MATRÍCULA Nº 220977 DO 8º SERVIÇO REGISTRAL DE IMÓVEIS DO RIO DE JANEIRO-RJ. FORMA DE AQUISIÇÃO: HAVIDO POR COMPRA E VENDA PELA ESCRITURA DE 24/08/2016, LAVRADA EM NOTAS DO 1º OFÍCIO DESTA CIDADE (Lº 5733, FLS. 099/102) PRENOTADA SOB Nº 811032 EM 25/06/2019, ACOMPANHA DAS ESCRITURAS DECLARATÓRIAS DE 15/01/2018, DE RERRATIFICAÇÃO E ADITAMENTO DE 22/02/2018 (Lº 5801, FLS. 092 E 113/114) E DA DECLARATÓRIA DE 29/10/2018 (Lº5825, FLS. 162) TODAS LAVRADAS E NOTAS 1º OFÍCIO DESTA CIDADE, CONFORME CONSTA NO R-11 DA MATRÍCULA ACIMA CITADA. INSCRIÇÃO MUNICIPAL Nº 3.009.674-7 CL.  51060.
 E - ELEMENTOS IDENTIFICADORES DO DÉBITO ORIGINÁRIO
 Não se aplica 
 F - TARIFAS DEVIDAS: É prevista a cobrança das tarifas abaixo que podem ser consultadas na Tabela de Tarifas da CAIXA disponível em www.caixa.gov.br 
@@ -71,7 +70,7 @@ Ouvidoria: 0800 725 7474
 Site: http://caixa.gov.br
 
 K - IMPOSTOS E DEMAIS ENCARGOS INCIDENTES SOBRE ESTE CONTRATO
-
+A GUIA DE ITBI SERÁ APRESENTADA NO ATO DO REGISTRO EM CONFORMIDADE COM A LEGISLAÇÃO VIGENTE.
 L - CONDIÇÕES ESPECÍFICAS APLICÁVEIS
 O(s) DEVEDOR(ES) optou(ram) pela taxa de juros reduzida com a aquisição, até a data de assinatura deste contrato dos produtos/serviços: débito dos encargos do financiamento em conta corrente na CAIXAe recebimento do crédito de salário/conta salário na CAIXA e/ou contratação de produto de previdência privada, que devem ser mantidos durante a vigência do contrato. 
 Enquanto atendidas as condições acima e o(s) DEVEDOR(ES) estiver(em) adimplente(s) é concedido um redutor à taxa de juros definida na letra 'B9.1', passando a ser aplicada a taxa de juros reduzida constante na letra 'B9.2'. 
@@ -199,8 +198,51 @@ III - Valor das despesas: soma das importâncias dos encargos, custas de cobran�
 30.2 Ocorrendo a resolução de pleno direito pactuada na cláusula 30, a CAIXA ressarcirá o(s) DEVEDOR(ES) dos valores porventura despendidos com o encargo mensal, a saber: amortização, se houver, juros e a Tarifa de Avaliação de Bens Recebidos em Garantia, exceto o prêmio de seguro por ter cobertura vigente a partir do primeiro pagamento, e a Tarifa de Administração do contrato.
 31 FORO DE ELEIÇÃO - Seção Judiciária da Justiça Federal da localidade do imóvel objeto da garantia.
 
-
 INFORMAÇÕES ADICIONAIS/RESSALVAS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  
@@ -263,7 +305,7 @@ m) dou ciência que, após a emissão do seguro, terei acesso a todas as Condiç
 Se optado pelo Seguro Residencial de Danos Físicos ao Conteúdo (DFC) terei à disposição os serviços ofertados por este seguro, cuja consulta está disponível no Guia de Assistências 24h no Portal do Cliente na página https://www.caixaseguridade.com.br/, opção “Residencial e Habitacional”, link “Área do Cliente” e aba “Condições Gerais”.
 5) Conhecimento de que até a liquidação do financiamento, se contrato adimplente, poderá ser solicitada a substituição da Apólice, sujeita à aprovação pela CAIXA e desde que atendidos os requisitos fixados pelo CNSP - Conselho Nacional de Seguros Privados ou pelo Banco Central do Brasil - BACEN.
 6) Declaro(amos), ainda:
-Nome do Participante 1: ____________________________________________________________
+Nome do Participante 1: PAULA MORAIS SILVA ___________________________________________
 desconhecer que possuo(imos) qualquer doença ou situação incapacitante que prejudique a contratação(*) do seguro de Morte e Invalidez Permanente - MIP.
 	possuir as seguintes doenças ou situações incapacitantes no ato desta contratação(*).
 	
@@ -271,7 +313,7 @@ desconhecer que possuo(imos) qualquer doença ou situação incapacitante que pr
 	
 	
  
-Nome do Participante 2: ____________________________________________________________
+Nome do Participante 2: ANTONIO ROBERTO COELHO RIOS ________________________________
 desconhecer que possuo(imos) qualquer doença ou situação incapacitante que prejudique a contratação(*) do seguro de Morte e Invalidez Permanente - MIP.
 	possuir as seguintes doenças ou situações incapacitantes no ato desta contratação(*).
 	
@@ -312,6 +354,4 @@ ________________________________________
 TESTEMUNHA - 
 
 ________________________________________
-TESTEMUNHA - 
- 
-Não se aplica. Descartar esta folha. 
+TESTEMUNHA -
