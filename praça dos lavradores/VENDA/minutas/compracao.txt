@@ -6,7 +6,7 @@ Por este Instrumento Particular, com caráter de escritura pública, na forma do
 A - QUALIFICAÇÃO DAS PARTES
 A1 - VENDEDOR(ES): BRUNO FERREIRA DO NASCIMENTO, nacionalidade brasileira, nascido(a) em 24/11/1984, servidor público federal, filho de: SOLANGE FERREIRA DO NASCIMENTO e JORGE LUIS ALVES DO NASCIMENTO, e-mail: BRUNOFERREIRA01@GMAIL.COM, portador(a) da carteira de identidade nº 113296925, expedida pelo DETRAN/RJ em 09/10/2013 e do CPF 106.484.037-00,  solteiro(a), declara não conviver em união estável, residente e domiciliado(a) em SQS, O QD 312, BL. H AP 608, Asa Sul em Distrito Federal/DF.
 A2 - COMPRADOR(ES) E DEVEDOR(ES) FIDUCIANTE(S), doravante denominado(s) DEVEDOR(ES): ANT
-ONIO ROBERTO COELHO RIOS, nacionalidade brasileira, nascido(a) em 13/08/1964, enfermeiro, filho de: JACY COELHO CAITITE RIOS e ANTONIO PEREIRA RIOS, e-mail: ANTONIORRIOS@YAHOO.COM.BR, portador(a) da CNH nº 04013669807, expedida pelo DETRAN/RJ em 25/11/2021 e do CPF 418.576.155-49,  casado(a) no regime de separação Legal de bens, na à vigência da Lei 6.515/77, e seu cônjuge PAULA MORAIS SILVA, nacionalidade brasileira, nascido(a) em 26/09/1986, enfermeira, filha de: MARIA JOSE MORAIS SILVA e PAULO CEZAR DO COUTO SILVA, e-mail: PAULINHA_19A@YAHOO.COM.BR, portador(a) de Carteira Funcional nº 000525784, expedida pelo COREN/RJ  em 28/02/2019 e do CPF 111.897.087-01, residentes e domiciliados em R Olimpio De Carvalho, 76, Casa 02, Amendoeira em Sao Goncalo/RJ.
+ONIO ROBERTO COELHO RIOS, nacionalidade brasileira, nascido(a) em 13/08/1964, enfermeiro, filho de: JACY COELHO CAITITE RIOS e ANTONIO PEREIRA RIOS, e-mail: ANTONIORRIOS@YAHOO.COM.BR, portador(a) da CNH nº 04013669807, expedida pelo DETRAN/RJ em 25/11/2021 e do CPF 418.576.155-49,  casado(a) no regime de separação Legal de bens, na vigência da Lei 6.515/77, e seu cônjuge PAULA MORAIS SILVA, nacionalidade brasileira, nascido(a) em 26/09/1986, enfermeira, filha de: MARIA JOSE MORAIS SILVA e PAULO CEZAR DO COUTO SILVA, e-mail: PAULINHA_19A@YAHOO.COM.BR, portador(a) de Carteira Funcional nº 000525784, expedida pelo COREN/RJ  em 28/02/2019 e do CPF 111.897.087-01, residentes e domiciliados em R Olimpio De Carvalho, 76, Casa 02, Amendoeira em Sao Goncalo/RJ.
 A3 - CREDORA FIDUCIÁRIA: CAIXA ECONÔMICA FEDERAL, instituição financeira constituída sob a forma de empresa pública, pessoa jurídica de direito privado, criada pelo Decreto-Lei 759/1969, regendo-se pelo Estatuto vigente na data da presente contratação, com sede em Brasília - DF, no Setor Bancário Sul, Quadra 4, Lotes 3/4, inscrita no CNPJ 00.360.305/0001-04, neste ato representada por HENRY OLIVEIRA DO AMOR DIVINO, brasileiro, bancário, casado, nascido em 27/08/1975 filho de Jose Santana Melo do Amor Divino e Luzia Oliveira do Amor Divino, portador do documento de identidade nº 144454688, expedido pela DETRAN/RJ em 02/12/2021, inscrito no CPF/MF sob o nº 023.736.837-41,  endereço eletrônico: henry.divino@caixa.gov.br, residente à Rua Silva Rabelo 91 bl 2 ap 1508 - meier, rio de janeiro/RJ, conforme procuração lavrada às folhas 017 do livro 3557-P, em 05/04/2023, no 2º tabelião de notas e protesto de Brasília/DF, substabelecimento lavrado às folha 033, do livro 3562-P, em 02/05/2023 no 2º tabelião de notas e protesto de Brasília/DF, substabelecimento lavrado às folhas 103/104 do livro 4758 ato nº 50 em 05/05/2023 no 15º Oficio de Notas do Rio de Janeiro e substabelecimento lavrado às folhas 195/196 do livro 4758 ato nº 98 em 19/05/2023 no 15º Oficio de Notas do Rio de Janeiro, doravante denominada CAIXA.
 Agência responsável pelo contrato: 3146 NORTE SHOPPING, RJ                 
 QUADRO RESUMO
@@ -20,7 +20,8 @@ SFH
 B4 - Valor de Venda e Compra e Composição dos Recursos: 
 O valor destinado ao pagamento da venda e compra do imóvel objeto deste contrato é de R$ 230.000,00 (duzentos e trinta mil reais), composto pela integralização dos valores abaixo:
 Financiamento CAIXA	R$ 170.000,00
-Recursos próprios (Em dinheiro)	R$ 60.000,00
+Recursos próprios transferidos por PIX da conta do Bradesco da compradora PAULA MORAIS SILVA para o vendedor BRUNO FERREIRA DO NASCIMENTO na conta do NU Bank nos valores de R$10.000,00 em 29/5/23 e outra no valor de R$50.000,00 em 28/07/23	
+R$ 60.000,00
  	
 B5 - Valor de Financiamento para Despesas Acessórias (Custas Cartorárias: Registro e ITBI) e Comissão do leiloeiro, se houver:
 Não se aplica	B6 - Valor Total da Dívida (Financiamento):
@@ -242,9 +243,6 @@ INFORMAÇÕES ADICIONAIS/RESSALVAS
 
 
 
-
-
-
  
 
 E por estarem de acordo com os termos e condições deste contrato, as partes assinam o presente em 3 (três) vias com as testemunhas.
@@ -321,21 +319,6 @@ desconhecer que possuo(imos) qualquer doença ou situação incapacitante que pr
 	
 	
 
-Nome do Participante 3: ____________________________________________________________
-desconhecer que possuo(imos) qualquer doença ou situação incapacitante que prejudique a contratação (*) do seguro de morte e invalidez permanente.
-	possuir as seguintes doenças ou situações incapacitantes no ato desta contratação (*)
-	
-	
-	
-	
-
-Nome do Participante 4: ____________________________________________________________
-desconhecer que possuo(imos) qualquer doença ou situação incapacitante que prejudique a contratação (*) do seguro de morte e invalidez permanente.
-	possuir as seguintes doenças ou situações incapacitantes no ato desta contratação (*)
-	
-	
-	
-	
 
 (*)Em ambos os casos, declaro(amos), ainda, estar(mos) ciente(s) da perda de direito à indenização securitária no caso de declarações inverídicas.
 
