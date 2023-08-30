@@ -16,7 +16,7 @@ def impota_dados(path):
     return df_input
 
 # df_input=impota_dados('./sqs312_bloco_gilberto_amaral_ap611/formulario.csv')
-df_input=impota_dados('./sqs311_bloco_d_ap306/formulario.csv')
+df_input=impota_dados('./sqs116_bloco_j_ap405/formulario.csv')
 
 
 valor_imovel=df_input.loc['valor_imovel','valor_variavel']
@@ -104,7 +104,7 @@ if financiamento_0_ou_1==1:
     valor_finaciado=valor_imovel-valor_entrada
     encargos_finaciamento=df_input.loc['encargos_finaciamento','valor_variavel']
     amortizacao_inicial=valor_finaciado/n_parcelas
-    print(amortizacao_inicial)
+    print(f'Amortização inicial: {amortizacao_inicial}')
     saldo_devedor=valor_finaciado
 
 else:
