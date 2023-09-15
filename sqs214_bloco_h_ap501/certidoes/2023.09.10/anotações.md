@@ -1,4 +1,4 @@
-1 - ainda não tirei certidões das espeças dos herdeiros
+1 - ainda não tirei certidões das esposas dos herdeiros
 
 Thais Paixão de Souza, 
     nome da mãe: NALUZIA PAIXAO DE SOUZA
