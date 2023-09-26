@@ -16,7 +16,7 @@ def impota_dados(path):
     return df_input
 
 # df_input=impota_dados('./sqs312_bloco_gilberto_amaral_ap611/formulario.csv')
-df_input=impota_dados('./sqs116_bloco_j_ap405/formulario.csv')
+df_input=impota_dados('./sqs304_bloco_k_ap303/formulario.csv')
 
 
 valor_imovel=df_input.loc['valor_imovel','valor_variavel']
@@ -345,6 +345,7 @@ valor_m2_venda=valor_venda/area
 print(f'm2 reforma: {obra/area}')
 print(f'm2 venda: {valor_m2_venda}')
 
+df.to_csv('resultado.csv')
 
 # %%
 11*66+70
